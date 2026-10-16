@@ -1,0 +1,116 @@
+timestamp,zone,soil_moisture,temperature,humidity,status
+2026-10-16 12:09:09,Main Gate,53,33.6,66,Healthy
+2026-10-16 12:09:09,Canteen,47,33.4,41,Auto Watering
+2026-10-16 12:09:09,Library,60,28.3,61,Healthy
+2026-10-16 12:09:09,Parking Area,39,24.8,69,Moisture Low
+2026-10-16 12:09:09,Hostel,71,30.2,72,Healthy
+2026-10-16 12:09:15,Main Gate,51,33.4,65,Healthy
+2026-10-16 12:09:15,Canteen,47,33.7,42,Moisture Low
+2026-10-16 12:09:15,Library,58,28.8,61,Healthy
+2026-10-16 12:09:15,Parking Area,37,24.9,67,Moisture Low
+2026-10-16 12:09:15,Hostel,71,30.0,70,Healthy
+2026-10-16 12:09:20,Main Gate,50,33.4,64,Healthy
+2026-10-16 12:09:20,Canteen,47,33.3,42,Moisture Low
+2026-10-16 12:09:20,Library,58,28.5,63,Healthy
+2026-10-16 12:09:20,Parking Area,36,24.5,65,Moisture Low
+2026-10-16 12:09:20,Hostel,69,30.0,72,Healthy
+2026-10-16 12:09:22,Main Gate,48,33.8,62,Healthy
+2026-10-16 12:09:22,Canteen,46,33.3,40,Healthy
+2026-10-16 12:09:22,Library,57,28.3,65,Healthy
+2026-10-16 12:09:22,Parking Area,34,25.1,66,Moisture Low
+2026-10-16 12:09:22,Hostel,69,29.8,71,Healthy
+2026-10-16 12:09:24,Main Gate,47,33.3,64,Healthy
+2026-10-16 12:09:24,Canteen,44,32.7,41,Healthy
+2026-10-16 12:09:24,Library,57,27.8,66,Healthy
+2026-10-16 12:09:24,Parking Area,33,25.0,68,Moisture Low
+2026-10-16 12:09:24,Hostel,67,30.3,72,Healthy
+2026-10-16 12:09:25,Main Gate,47,33.7,64,Healthy
+2026-10-16 12:09:25,Canteen,43,32.2,39,Healthy
+2026-10-16 12:09:25,Library,56,27.5,67,Healthy
+2026-10-16 12:09:25,Parking Area,31,24.8,66,Moisture Low
+2026-10-16 12:09:25,Hostel,67,29.8,71,Healthy
+2026-10-16 12:09:27,Main Gate,47,33.2,63,Healthy
+2026-10-16 12:09:27,Canteen,41,32.6,41,Healthy
+2026-10-16 12:09:27,Library,54,27.8,68,Healthy
+2026-10-16 12:09:27,Parking Area,30,25.0,66,Moisture Low
+2026-10-16 12:09:27,Hostel,66,29.8,71,Healthy
+2026-10-16 12:09:32,Main Gate,45,33.2,61,Healthy
+2026-10-16 12:09:32,Canteen,39,32.3,40,Healthy
+2026-10-16 12:09:32,Library,54,27.7,66,Healthy
+2026-10-16 12:09:32,Parking Area,30,24.9,65,Moisture Low
+2026-10-16 12:09:32,Hostel,65,29.6,70,Healthy
+2026-10-16 12:09:37,Main Gate,43,33.2,60,Healthy
+2026-10-16 12:09:37,Canteen,39,32.8,39,Healthy
+2026-10-16 12:09:37,Library,52,27.9,68,Healthy
+2026-10-16 12:09:37,Parking Area,30,24.8,63,Moisture Low
+2026-10-16 12:09:37,Hostel,63,29.3,70,Healthy
+2026-10-16 12:09:42,Main Gate,43,32.9,62,Healthy
+2026-10-16 12:09:42,Canteen,38,33.0,40,Healthy
+2026-10-16 12:09:42,Library,52,27.4,69,Healthy
+2026-10-16 12:09:42,Parking Area,28,24.6,62,Moisture Low
+2026-10-16 12:09:42,Hostel,62,28.7,68,Healthy
+2026-10-16 12:09:47,Main Gate,41,32.5,64,Healthy
+2026-10-16 12:09:47,Canteen,37,32.6,42,Healthy
+2026-10-16 12:09:47,Library,52,27.1,67,Healthy
+2026-10-16 12:09:47,Parking Area,26,25.0,62,Moisture Low
+2026-10-16 12:09:47,Hostel,61,29.1,68,Healthy
+2026-10-16 12:09:52,Main Gate,41,32.3,62,Healthy
+2026-10-16 12:09:52,Canteen,37,32.5,41,Healthy
+2026-10-16 12:09:52,Library,52,26.9,67,Healthy
+2026-10-16 12:09:52,Parking Area,24,25.3,60,Moisture Low
+2026-10-16 12:09:52,Hostel,60,29.3,67,Healthy
+2026-10-16 12:09:57,Main Gate,39,32.3,61,Healthy
+2026-10-16 12:09:57,Canteen,35,32.1,40,Moisture Low
+2026-10-16 12:09:57,Library,50,27.0,66,Healthy
+2026-10-16 12:09:57,Parking Area,23,25.3,60,Moisture Low
+2026-10-16 12:09:57,Hostel,59,28.9,68,Healthy
+2026-10-16 12:10:02,Main Gate,38,32.7,61,Healthy
+2026-10-16 12:10:02,Canteen,34,32.5,41,Moisture Low
+2026-10-16 12:10:02,Library,48,27.1,65,Healthy
+2026-10-16 12:10:02,Parking Area,22,25.8,58,Moisture Low
+2026-10-16 12:10:02,Hostel,59,29.3,69,Healthy
+2026-10-16 12:10:07,Main Gate,37,32.4,61,Healthy
+2026-10-16 12:10:07,Canteen,32,32.3,40,Moisture Low
+2026-10-16 12:10:07,Library,47,27.2,64,Healthy
+2026-10-16 12:10:07,Parking Area,22,25.5,56,Moisture Low
+2026-10-16 12:10:07,Hostel,59,28.9,68,Healthy
+2026-10-16 12:10:12,Main Gate,35,32.5,63,Moisture Low
+2026-10-16 12:10:12,Canteen,31,31.7,40,Moisture Low
+2026-10-16 12:10:12,Library,46,27.3,62,Healthy
+2026-10-16 12:10:12,Parking Area,41,24.9,54,Auto Watering
+2026-10-16 12:10:12,Hostel,59,28.5,70,Healthy
+2026-10-16 12:10:17,Main Gate,34,32.8,61,Moisture Low
+2026-10-16 12:10:17,Canteen,31,31.8,39,Moisture Low
+2026-10-16 12:10:17,Library,44,27.6,63,Healthy
+2026-10-16 12:10:17,Parking Area,41,25.5,54,Healthy
+2026-10-16 12:10:17,Hostel,59,28.1,72,Healthy
+2026-10-16 12:10:22,Main Gate,32,33.1,63,Moisture Low
+2026-10-16 12:10:22,Canteen,31,32.4,40,Moisture Low
+2026-10-16 12:10:22,Library,44,27.6,62,Healthy
+2026-10-16 12:10:22,Parking Area,39,25.5,55,Healthy
+2026-10-16 12:10:22,Hostel,57,27.6,72,Healthy
+2026-10-16 12:10:27,Main Gate,30,32.6,62,Moisture Low
+2026-10-16 12:10:27,Canteen,29,31.9,40,Moisture Low
+2026-10-16 12:10:27,Library,43,27.1,63,Healthy
+2026-10-16 12:10:27,Parking Area,39,25.2,55,Healthy
+2026-10-16 12:10:27,Hostel,57,27.7,74,Healthy
+2026-10-16 12:10:32,Main Gate,30,33.2,60,Moisture Low
+2026-10-16 12:10:32,Canteen,29,32.4,38,Moisture Low
+2026-10-16 12:10:32,Library,41,26.9,64,Healthy
+2026-10-16 12:10:32,Parking Area,39,25.1,53,Healthy
+2026-10-16 12:10:32,Hostel,57,27.7,72,Healthy
+2026-10-16 12:10:37,Main Gate,29,33.1,61,Moisture Low
+2026-10-16 12:10:37,Canteen,29,31.8,37,Moisture Low
+2026-10-16 12:10:37,Library,41,26.9,63,Healthy
+2026-10-16 12:10:37,Parking Area,37,25.0,52,Healthy
+2026-10-16 12:10:37,Hostel,55,28.2,73,Healthy
+2026-10-16 12:10:42,Main Gate,27,33.4,63,Moisture Low
+2026-10-16 12:10:42,Canteen,28,32.0,36,Moisture Low
+2026-10-16 12:10:42,Library,40,27.1,65,Healthy
+2026-10-16 12:10:42,Parking Area,37,25.3,54,Healthy
+2026-10-16 12:10:42,Hostel,55,28.6,72,Healthy
+2026-10-16 12:10:47,Main Gate,26,33.6,62,Moisture Low
+2026-10-16 12:10:47,Canteen,26,32.4,34,Moisture Low
+2026-10-16 12:10:47,Library,39,27.5,67,Healthy
+2026-10-16 12:10:47,Parking Area,37,24.9,56,Healthy
+2026-10-16 12:10:47,Hostel,54,29.1,72,Healthy
